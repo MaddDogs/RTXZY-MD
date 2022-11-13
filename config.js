@@ -22,7 +22,7 @@ global.pulsa = '6281326024103' // isi dengan nomor pulsa hp kalian
 global.gopay = '6281326024103'
 
 //Nama Bot & Grouplink//
-global.namebot = '𝑺𝒉𝒆𝒊𝒍𝒂𝒃𝒐𝒕'
+global.namebot = '𝐒𝐇𝐄𝐈𝐋𝐀𝐁𝐎𝐓-𝐌𝐃'
 global.gc = 'https://chat.whatsapp.com/F2tqNFaoyU9Aof9YnGxJeG'
 global.web = 'https://github.com/gaara-ofc' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.instagram = 'https://instagram.com/gaara_xploite'
@@ -30,10 +30,10 @@ global.instagram = 'https://instagram.com/gaara_xploite'
 //Tampilan wm Bot dan pesan bot//
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© 𝑺𝒉𝒆𝒊𝒍𝒂 𝙱𝙾𝚃'
+global.wm = '© 𝐒𝐇𝐄𝐈𝐋𝐀𝐁𝐎𝐓-𝐌𝐃'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝑺𝒉𝒆𝒊𝒍𝒂'
-global.wm3 = '© 𝑺𝒉𝒆𝒊𝒍𝒂𝒃𝒐𝒕'
+global.wm2 = '⫹⫺ 𝐒𝐇𝐄𝐈𝐋𝐀𝐁𝐎𝐓-𝐌𝐃'
+global.wm3 = '© 𝐒𝐇𝐄𝐈𝐋𝐀𝐁𝐎𝐓'
 global.wm4 = '© 2022/2023'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.wait = '_*Tunggu sedang di proses...*_'
