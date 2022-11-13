@@ -57,7 +57,7 @@ const defaultMenu = {
 ⌬ Prefix Used : *[ %p ]*
 ⌬ Database : %rtotalreg dari %totalreg 
 ⌬ Memory Used : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-⌬ Free Apikey : https://bit.ly/3BCKli6
+⌬ Insta : https://instagram.com/gaara_xploite
 
 *═══[ USER INFO ]═══*
 ⌬ Pengguna :  %name 
