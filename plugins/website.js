@@ -2,7 +2,7 @@ let handler = async m => {
 
 let krtu = `web`
 m.reply(`
-> https://myblogxyz.netlify.app
+> https://instagram.com/gaara_xploite
 > https://github.com/gaara-ofc
 `.trim()) 
 }
