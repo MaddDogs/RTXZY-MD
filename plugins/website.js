@@ -3,7 +3,7 @@ let handler = async m => {
 let krtu = `web`
 m.reply(`
 > https://myblogxyz.netlify.app
-> https://botcahx.ddns.net
+> https://github.com/gaara-ofc
 `.trim()) 
 }
 handler.command = /^(web)$/i
